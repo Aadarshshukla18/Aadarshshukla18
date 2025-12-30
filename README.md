@@ -48,6 +48,7 @@ To become a **skilled Data Scientist & AI/ML Engineer** and work on **impactful 
 ![LangChain](https://img.shields.io/badge/LangChain-Framework-0B5FFF?style=for-the-badge)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-LLMs-orange?style=for-the-badge)
 ![OpenAI](https://img.shields.io/badge/LLMs-000000?style=for-the-badge)
+
 ### ⚙️ Tools & Platforms  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
@@ -81,9 +82,10 @@ To become a **skilled Data Scientist & AI/ML Engineer** and work on **impactful 
   <a href="https://www.linkedin.com/in/aadarsh-shukla-803147370" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
-  <a href="mailto:shuklaaadarsh00@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="https://mail.google.com/mail/?view=cm&to=shuklaaadarsh00@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
 
 ---
 📧 Email: shuklaaadarsh00@gmail.com  
