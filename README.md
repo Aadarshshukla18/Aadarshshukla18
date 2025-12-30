@@ -36,7 +36,18 @@ To become a **skilled Data Scientist & AI/ML Engineer** and work on **impactful 
 ### 🤖 Deep Learning
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
- 
+![ANN](https://img.shields.io/badge/ANN-Artificial%20Neural%20Network-blue?style=for-the-badge)
+![CNN](https://img.shields.io/badge/CNN-Convolutional%20Neural%20Network-orange?style=for-the-badge)
+![RNN](https://img.shields.io/badge/RNN-Recurrent%20Neural%20Network-green?style=for-the-badge)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-Deep%20Learning-purple?style=for-the-badge)
+
+ ### 🧬 Generative AI & NLP  
+![Generative AI](https://img.shields.io/badge/Generative%20AI-LLMs-black?style=for-the-badge)
+![NLP](https://img.shields.io/badge/NLP-Natural%20Language%20Processing-blue?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-darkgreen?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-Framework-0B5FFF?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-LLMs-orange?style=for-the-badge)
+![OpenAI](https://img.shields.io/badge/LLMs-000000?style=for-the-badge)
 ### ⚙️ Tools & Platforms  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
