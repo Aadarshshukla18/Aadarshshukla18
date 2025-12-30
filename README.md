@@ -66,17 +66,16 @@ To become a **skilled Data Scientist & AI/ML Engineer** and work on **impactful 
 ## 🤝 Connect With Me  
 
 <p align="center">
-  <a href="https://github.com/Aadarshshukla18">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+  <a href="https://github.com/Aadarshshukla18" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub"/>
   </a>
-  <a href="https://www.linkedin.com/in/aadarsh-shukla-803147370">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+  <a href="https://www.linkedin.com/in/aadarsh-shukla-803147370" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
   <a href="mailto:shuklaaadarsh00@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
-
 
 ---
 
