@@ -72,6 +72,10 @@ To become a **skilled Data Scientist & AI/ML Engineer** and work on **impactful 
   <a href="https://www.linkedin.com/in/aadarsh-shukla-803147370" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
+  <a href="mailto:shuklaaadarsh00@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 ---
 📧 Email: shuklaaadarsh00@gmail.com  
 🔗 LinkedIn: https://www.linkedin.com/in/aadarsh-shukla-803147370
