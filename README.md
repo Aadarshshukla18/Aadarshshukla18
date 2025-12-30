@@ -7,13 +7,11 @@
 
 ## 👋 About Me  
 
-🚀 **Aspiring Data Scientist | AI/ML Engineer Python Developer**
+🚀 **Aspiring Data Scientist | AI/ML Engineer | Python Developer**
 
-I am a passionate learner focused on **Artificial Intelligence, Machine Learning, and Data Science**.  
-I love transforming **real-world data into intelligent solutions** and continuously improving my skills through hands-on projects.
+I am a passionate learner focused on building **AI and data-driven solutions** using real-world datasets. I actively work on **hands-on projects** to strengthen my skills in Machine Learning, Deep Learning, and modern AI frameworks.
 
-🎓 Preparing for **MCA (AI/ML)**  
-🧠 Strong interest in **Pthon, Machine Learning, Deep Learning, Computer Vision, CNN, RAG, PyTorch & Generative AI**
+🎓 Preparing for **MCA (AI/ML)**
 
 ---
 
