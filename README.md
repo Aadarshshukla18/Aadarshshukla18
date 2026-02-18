@@ -33,8 +33,13 @@ To become a **skilled Data Scientist & AI/ML Engineer** and work on **impactful 
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
+### 📊 Data Analysis
+![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![DAX](https://img.shields.io/badge/DAX-005571?style=for-the-badge&logo=microsoft&logoColor=white)
+![Power Query](https://img.shields.io/badge/Power%20Query-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
 ### 🤖 Deep Learning
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![ANN](https://img.shields.io/badge/ANN-Artificial%20Neural%20Network-blue?style=for-the-badge)
 ![CNN](https://img.shields.io/badge/CNN-Convolutional%20Neural%20Network-orange?style=for-the-badge)
@@ -46,7 +51,6 @@ To become a **skilled Data Scientist & AI/ML Engineer** and work on **impactful 
 ![NLP](https://img.shields.io/badge/NLP-Natural%20Language%20Processing-blue?style=for-the-badge)
 ![RAG](https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-darkgreen?style=for-the-badge)
 ![LangChain](https://img.shields.io/badge/LangChain-Framework-0B5FFF?style=for-the-badge)
-![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-LLMs-orange?style=for-the-badge)
 ![OpenAI](https://img.shields.io/badge/LLMs-000000?style=for-the-badge)
 
 ### ⚙️ Tools & Platforms  
