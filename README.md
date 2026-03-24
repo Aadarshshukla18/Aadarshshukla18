@@ -70,7 +70,8 @@ To become a **skilled Data Scientist & AI/ML Engineer** and work on **impactful 
 - AI system to automate resume filtering using NLP
 - Developed an AI-based system to automate resume screening using NLP techniques 
 - Helps recruiters filter candidates efficiently and reduce manual effort
-- Tech Stack: Python, NLP, Machine Learning 
+- Tech Stack: Python, NLP, Machine Learning
+  
 🔗 https://github.com/Aadarshshukla18/AI-Resume-Screening-System  
 
 ---
@@ -80,6 +81,7 @@ To become a **skilled Data Scientist & AI/ML Engineer** and work on **impactful 
 - Can be used for security systems and attendance tracking
 - Useful for security & attendance systems
 - Tech Stack: OpenCV, Deep Learning, Python
+  
 🔗 https://github.com/Aadarshshukla18/Real-Time_Face_Recognition_System  
 
 ---
@@ -87,7 +89,8 @@ To become a **skilled Data Scientist & AI/ML Engineer** and work on **impactful 
 ### 🧠 Movie Entity Extraction (LLM)  
 - Extracts entities (actors, movies, roles) using NLP
 - Demonstrates practical use of Generative AI in text processing 
--Tech Stack: Python, NLP, LLM 
+-Tech Stack: Python, NLP, LLM
+
 🔗 https://github.com/Aadarshshukla18/movie-entity-extraction-llm  
 
 ---
@@ -96,7 +99,8 @@ To become a **skilled Data Scientist & AI/ML Engineer** and work on **impactful 
 - Classifies tumors as malignant or benign
 - Compared Machine Learning and Deep Learning performance
 - Tech Stack: Scikit-learn, TensorFlow/PyTorch  
-- Combines ML & Deep Learning  
+- Combines ML & Deep Learning
+  
 🔗 https://github.com/Aadarshshukla18/Breast-Cancer-Classification-Project-using-ML-and-DL  
 
 ---
@@ -106,6 +110,7 @@ To become a **skilled Data Scientist & AI/ML Engineer** and work on **impactful 
 - Built a regression model to predict car prices based on features
 - Useful for pricing strategy and decision making
 - Tech Stack: Python, Machine Learning
+  
 🔗 https://github.com/Aadarshshukla18/Car-Price-Prediction  
 
 ---
@@ -115,7 +120,8 @@ To become a **skilled Data Scientist & AI/ML Engineer** and work on **impactful 
 - Designed an interactive dashboard to analyze sales performance
 - Shows profit trends & regional performance
 - Identified key insights like profit trends and regional performance
-- Tech Stack: Power BI, DAX 
+- Tech Stack: Power BI, DAX
+
 🔗 https://github.com/Aadarshshukla18/SuperStore-Sales-Dashboard  
 
 ---
@@ -125,6 +131,7 @@ To become a **skilled Data Scientist & AI/ML Engineer** and work on **impactful 
 - Built a classification model to detect spam emails
 - Applied NLP techniques for text preprocessing and classification
 - Tech Stack: Python, NLP, Machine Learning
+  
 🔗 https://github.com/Aadarshshukla18/Email-Spam-Detection-with-machine-learning  
 
 ---
@@ -134,6 +141,7 @@ To become a **skilled Data Scientist & AI/ML Engineer** and work on **impactful 
 - Created a business dashboard to visualize sales data and trends
 - Provided insights into customer behavior and product performance
 - Tech Stack: Power BI
+  
 🔗 https://github.com/Aadarshshukla18/AmazonStore-Sales-Dashboard-PowerBi-Project  
 
 ---
