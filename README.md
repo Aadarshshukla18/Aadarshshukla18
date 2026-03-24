@@ -67,55 +67,73 @@ To become a **skilled Data Scientist & AI/ML Engineer** and work on **impactful 
 ## 🚀 Featured Projects  
 
 ### 🤖 AI Resume Screening System  
-- AI system to automate resume filtering using NLP  
-- Helps recruiters reduce manual effort  
+- AI system to automate resume filtering using NLP
+- Developed an AI-based system to automate resume screening using NLP techniques 
+- Helps recruiters filter candidates efficiently and reduce manual effort
+- Tech Stack: Python, NLP, Machine Learning 
 🔗 https://github.com/Aadarshshukla18/AI-Resume-Screening-System  
 
 ---
 
 ### 👁️ Real-Time Face Recognition System  
-- Real-time face detection using Computer Vision  
-- Useful for security & attendance systems  
+- Real-time face detection using Computer Vision
+- Can be used for security systems and attendance tracking
+- Useful for security & attendance systems
+- Tech Stack: OpenCV, Deep Learning, Python
 🔗 https://github.com/Aadarshshukla18/Real-Time_Face_Recognition_System  
 
 ---
 
 ### 🧠 Movie Entity Extraction (LLM)  
-- Extracts entities (actors, movies, roles) using NLP  
-- Demonstrates practical LLM use case  
+- Extracts entities (actors, movies, roles) using NLP
+- Demonstrates practical use of Generative AI in text processing 
+-Tech Stack: Python, NLP, LLM 
 🔗 https://github.com/Aadarshshukla18/movie-entity-extraction-llm  
 
 ---
 
 ### 🏥 Breast Cancer Classification (ML & DL)  
-- Classifies tumors as malignant or benign  
+- Classifies tumors as malignant or benign
+- Compared Machine Learning and Deep Learning performance
+- Tech Stack: Scikit-learn, TensorFlow/PyTorch  
 - Combines ML & Deep Learning  
 🔗 https://github.com/Aadarshshukla18/Breast-Cancer-Classification-Project-using-ML-and-DL  
 
 ---
 
 ### 🚗 Car Price Prediction  
-- Predicts car prices using regression models  
-- Useful for pricing analysis  
+- Predicts car prices using regression models
+- Built a regression model to predict car prices based on features
+- Useful for pricing strategy and decision making
+- Tech Stack: Python, Machine Learning
 🔗 https://github.com/Aadarshshukla18/Car-Price-Prediction  
 
 ---
 
 ### 📊 SuperStore Sales Dashboard (Power BI)  
-- Interactive dashboard for sales insights  
-- Shows profit trends & regional performance  
+- Interactive dashboard for sales insights
+- Designed an interactive dashboard to analyze sales performance
+- Shows profit trends & regional performance
+- Identified key insights like profit trends and regional performance
+- Tech Stack: Power BI, DAX 
 🔗 https://github.com/Aadarshshukla18/SuperStore-Sales-Dashboard  
 
 ---
 
 ### 📧 Email Spam Detection  
-- Classifies spam vs non-spam emails using NLP  
+- Classifies spam vs non-spam emails using NLP
+- Built a classification model to detect spam emails
+- Applied NLP techniques for text preprocessing and classification
+- Tech Stack: Python, NLP, Machine Learning
 🔗 https://github.com/Aadarshshukla18/Email-Spam-Detection-with-machine-learning  
 
 ---
 
 ### 📊 Amazon Sales Dashboard (Power BI)  
-- Visualizes sales data and customer behavior  
+- Visualizes sales data and customer behavior
+- Created a business dashboard to visualize sales data and trends
+- Provided insights into customer behavior and product performance
+- Tech Stack: Power BI
 🔗 https://github.com/Aadarshshukla18/AmazonStore-Sales-Dashboard-PowerBi-Project  
 
 ---
