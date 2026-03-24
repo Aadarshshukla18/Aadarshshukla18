@@ -88,8 +88,8 @@ To become a **skilled Data Scientist & AI/ML Engineer** and work on **impactful 
 
 ### 🧠 Movie Entity Extraction (LLM)  
 - Extracts entities (actors, movies, roles) using NLP
-- Demonstrates practical use of Generative AI in text processing 
--Tech Stack: Python, NLP, LLM
+- Demonstrates practical use of Generative AI in text processing
+- Tech Stack: Python, NLP, LLM
 
 🔗 https://github.com/Aadarshshukla18/movie-entity-extraction-llm  
 
