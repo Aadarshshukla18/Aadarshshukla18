@@ -126,10 +126,15 @@ To become a **skilled Data Scientist & AI/ML Engineer** and work on **impactful 
 - 🤖 Machine Learning Models  
 - 🧠 Deep Learning & Computer Vision  
 - 🧪 Real-world AI/ML Portfolio Projects  
-
+- 🧠 Natural Language Processing (NLP) for text classification and analysis  
+- ⚙️ Model evaluation, tuning, and performance optimization  
+- 🧩 Building end-to-end ML pipelines using Python  
+- 📁 Structuring scalable ML projects and improving code quality  
+- 🚀 Preparing industry-ready projects for GitHub and job applications
 ---
 
 ## 🤝 Connect With Me  
+
 
 <p align="center">
   <a href="https://github.com/Aadarshshukla18" target="_blank">
@@ -138,13 +143,17 @@ To become a **skilled Data Scientist & AI/ML Engineer** and work on **impactful 
   <a href="https://www.linkedin.com/in/aadarsh-shukla-803147370" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
-</p>
-
+  <a href="https://mail.google.com/mail/?view=cm&to=shuklaaadarsh00@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 ---
 
 📧 Email: shuklaaadarsh00@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/aadarsh-shukla-803147370
 
-⭐ **If you like my work, feel free to star ⭐ my repositories!**
+⭐ *If you like my work, feel free to star ⭐ my repositories and connect with me!*
+
+📬 Feel free to reach out to me at *shuklaaadarsh00@gmail.com* for collaborations, Job, internships, or opportunities.
 
 <!-- Footer Animation -->
 <p align="center">
