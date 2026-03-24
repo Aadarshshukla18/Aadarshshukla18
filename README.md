@@ -36,14 +36,31 @@ To become a **skilled Data Scientist & AI/ML Engineer** and work on **impactful 
 ### 📊 Data Analysis
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![DAX](https://img.shields.io/badge/DAX-005571?style=for-the-badge&logo=microsoft&logoColor=white)
+![Power Query](https://img.shields.io/badge/Power%20Query-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
 
 ### 🤖 Deep Learning
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![ANN](https://img.shields.io/badge/ANN-Artificial%20Neural%20Network-blue?style=for-the-badge)
 ![CNN](https://img.shields.io/badge/CNN-Convolutional%20Neural%20Network-orange?style=for-the-badge)
+![RNN](https://img.shields.io/badge/RNN-Recurrent%20Neural%20Network-green?style=for-the-badge)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-Deep%20Learning-purple?style=for-the-badge)
 
 ### 🧬 Generative AI & NLP  
 ![NLP](https://img.shields.io/badge/NLP-Natural%20Language%20Processing-blue?style=for-the-badge)
 ![LangChain](https://img.shields.io/badge/LangChain-Framework-0B5FFF?style=for-the-badge)
+![RNN](https://img.shields.io/badge/RNN-Recurrent%20Neural%20Network-green?style=for-the-badge)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-Deep%20Learning-purple?style=for-the-badge)
+![OpenAI](https://img.shields.io/badge/LLMs-000000?style=for-the-badge)
+
+### ⚙️ Tools & Platforms  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
+![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
 
 ---
 
