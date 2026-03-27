@@ -64,6 +64,10 @@ To become a **skilled Data Scientist & AI/ML Engineer** and work on **impactful 
 
 ---
 
+## 💻  Portfolio
+
+🔗 https://www.canva.com/design/DAHFChwqgpI/uWMxlqBO6r0kdVtlgQg2OQ/edit
+
 ## 🚀 Featured Projects  
 
 ### 🤖 AI Resume Screening System  
@@ -185,3 +189,4 @@ To become a **skilled Data Scientist & AI/ML Engineer** and work on **impactful 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0066FF&height=120&section=footer"/>
 </p>
+
