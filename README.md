@@ -65,8 +65,27 @@ To become a **skilled Data Scientist & AI/ML Engineer** and work on **impactful 
 ---
 
 ## 💻  Portfolio
+<h3>
+<a href="https://www.canva.com/design/DAHFChwqgpI/uWMxlqBO6r0kdVtlgQg2OQ/edit">📌 Check my Portfolio 🤖</a>
+</h3>
 
-🔗 https://www.canva.com/design/DAHFChwqgpI/uWMxlqBO6r0kdVtlgQg2OQ/edit
+<div>
+<img src="https://raw.githubusercontent.com/Aadarshshukla18/Aadarshshukla18/refs/heads/main/1.png" style="width:30%" alt="ccc">
+<img src="https://raw.githubusercontent.com/Aadarshshukla18/Aadarshshukla18/refs/heads/main/2.png" style="width:30%" alt="ccc">
+<img src="https://raw.githubusercontent.com/Aadarshshukla18/Aadarshshukla18/refs/heads/main/3.png" style="width:30%" alt="ccc">
+<img src="https://raw.githubusercontent.com/Aadarshshukla18/Aadarshshukla18/refs/heads/main/4.png" style="width:30%" alt="ccc">
+<img src="https://raw.githubusercontent.com/Aadarshshukla18/Aadarshshukla18/refs/heads/main/5.png" style="width:30%" alt="ccc">
+<img src="https://raw.githubusercontent.com/Aadarshshukla18/Aadarshshukla18/refs/heads/main/6.png" style="width:30%" alt="ccc">
+<img src="https://raw.githubusercontent.com/Aadarshshukla18/Aadarshshukla18/refs/heads/main/7.png" style="width:30%" alt="ccc">
+<img src="https://raw.githubusercontent.com/Aadarshshukla18/Aadarshshukla18/refs/heads/main/8.png" style="width:30%" alt="ccc">
+<img src="https://raw.githubusercontent.com/Aadarshshukla18/Aadarshshukla18/refs/heads/main/9.png" style="width:30%" alt="ccc">
+<img src="https://raw.githubusercontent.com/Aadarshshukla18/Aadarshshukla18/refs/heads/main/10.png" style="width:30%" alt="ccc">
+<img src="https://raw.githubusercontent.com/Aadarshshukla18/Aadarshshukla18/refs/heads/main/11.png" style="width:30%" alt="ccc">
+<img src="https://raw.githubusercontent.com/Aadarshshukla18/Aadarshshukla18/refs/heads/main/12.png" style="width:30%" alt="ccc">
+<img src="https://raw.githubusercontent.com/Aadarshshukla18/Aadarshshukla18/refs/heads/main/13.png" style="width:30%" alt="ccc">
+<img src="https://raw.githubusercontent.com/Aadarshshukla18/Aadarshshukla18/refs/heads/main/14.png" style="width:30%" alt="ccc">
+<img src="https://raw.githubusercontent.com/Aadarshshukla18/Aadarshshukla18/refs/heads/main/15.png" style="width:30%" alt="ccc">
+</div>
 
 ## 🚀 Featured Projects  
 
