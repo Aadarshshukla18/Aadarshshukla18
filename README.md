@@ -224,6 +224,7 @@ To become a **skilled Data Scientist & AI/ML Engineer** and work on **impactful 
   <a href="https://mail.google.com/mail/?view=cm&to=shuklaaadarsh00@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
 ---
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aadarshshukla18&layout=compact&theme=radical&cache_seconds=1800)
