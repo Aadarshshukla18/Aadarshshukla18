@@ -9,11 +9,33 @@
 
 🚀 **Data Scientist | Aspiring AI/ML Engineer**
 
-I am a passionate learner focused on building **AI and data-driven solutions** using real-world datasets. I have built **15+ real-world projects** in Machine Learning, NLP, and Computer Vision, including AI Resume Screening and Face Recognition systems.
+I build AI systems that solve real-world problems using Machine Learning, NLP, and Computer Vision. I have developed 15+ production-style projects including resume screening automation and real-time face recognition systems.
 
 🎓 Preparing for **MCA (AI/ML)**
 
 ---
+
+## 💼 Data Scientist - High Technologies Solutions
+
+🤖 Built and deployed Machine Learning models for classification, regression, and NLP tasks using real-world datasets
+
+🧹 Performed data cleaning, preprocessing, and feature engineering to improve data quality and model performance
+
+📊 Developed and evaluated models using Python, Scikit-learn, Pandas, and NumPy
+
+🚀 Designed AI solutions including Resume Screening System, Spam Detection, and Car Price Prediction models
+
+🧠 Applied Natural Language Processing (NLP) techniques for text classification and information extraction
+
+🧬 Implemented Deep Learning models (CNN, ANN) for image classification and face recognition tasks
+
+📈 Conducted model evaluation and hyperparameter tuning to optimize performance and accuracy
+
+📊 Created data visualizations and business dashboards using Matplotlib and Power BI
+
+⚙️ Used tools such as Jupyter Notebook, Google Colab, Git, and GitHub for development and version control
+
+🔄 Built end-to-end Machine Learning pipelines from data collection to deployment-ready solutions
 
 ## 🎯 Career Objective  
 
@@ -120,6 +142,7 @@ To become a **skilled Data Scientist & AI/ML Engineer** and work on **impactful 
 
 ### 🏥 Breast Cancer Classification (ML & DL)  
 - Classifies tumors as malignant or benign
+- Achieved 94% accuracy on Breast Cancer dataset using Random Forest and CNN comparison
 - Compared Machine Learning and Deep Learning performance
 - Tech Stack: Scikit-learn, TensorFlow/PyTorch  
 - Combines ML & Deep Learning
@@ -182,8 +205,14 @@ To become a **skilled Data Scientist & AI/ML Engineer** and work on **impactful 
 - 🚀 Preparing industry-ready projects for GitHub and job applications
 ---
 
-## 🤝 Connect With Me  
+## 💡 Why Hire Me?
 
+- 🚀 Build real-world AI systems, not just tutorial-based projects  
+- 🧠 Strong foundation in Machine Learning & Deep Learning  
+- 🎯 Teaching experience — can simplify complex concepts clearly  
+- ⚡ Fast learner with consistent growth mindset  
+
+## 🤝 Connect With Me  
 
 <p align="center">
   <a href="https://github.com/Aadarshshukla18" target="_blank">
@@ -196,6 +225,12 @@ To become a **skilled Data Scientist & AI/ML Engineer** and work on **impactful 
   <img src="https://img.shields.io/badge/Email-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 ---
+  
+## 📊 GitHub Stats  
+
+![Aadarsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aadarshshukla18&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aadarshshukla18&layout=compact&theme=radical)
 
 📧 Email: shuklaaadarsh00@gmail.com  
 🔗 LinkedIn: https://www.linkedin.com/in/aadarsh-shukla-803147370
