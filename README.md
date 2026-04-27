@@ -226,7 +226,6 @@ To become a **skilled Data Scientist & AI/ML Engineer** and work on **impactful 
 </a>
 ---
 
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aadarshshukla18&layout=compact&theme=radical&cache_seconds=1800)
 
 📧 Email: shuklaaadarsh00@gmail.com  
