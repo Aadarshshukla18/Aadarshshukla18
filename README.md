@@ -7,7 +7,7 @@
 
 ## 👋 About Me  
 
-🚀 **Aspiring Data Scientist | AI/ML Engineer | Python Developer**
+🚀 **Data Scientist | Aspiring AI/ML Engineer**
 
 I am a passionate learner focused on building **AI and data-driven solutions** using real-world datasets. I have built **15+ real-world projects** in Machine Learning, NLP, and Computer Vision, including AI Resume Screening and Face Recognition systems.
 
