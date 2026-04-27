@@ -228,9 +228,11 @@ To become a **skilled Data Scientist & AI/ML Engineer** and work on **impactful 
   
 ## 📊 GitHub Stats  
 
-![Aadarsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aadarshshukla18&show_icons=true&theme=radical)
+## 📊 GitHub Stats  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aadarshshukla18&layout=compact&theme=radical)
+![Aadarsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aadarshshukla18&show_icons=true&theme=radical&cache_seconds=1800)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aadarshshukla18&layout=compact&theme=radical&cache_seconds=1800)
 
 📧 Email: shuklaaadarsh00@gmail.com  
 🔗 LinkedIn: https://www.linkedin.com/in/aadarsh-shukla-803147370
