@@ -225,12 +225,7 @@ To become a **skilled Data Scientist & AI/ML Engineer** and work on **impactful 
   <img src="https://img.shields.io/badge/Email-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 ---
-  
-## 📊 GitHub Stats  
 
-## 📊 GitHub Stats  
-
-![Aadarsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aadarshshukla18&show_icons=true&theme=radical&cache_seconds=1800)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aadarshshukla18&layout=compact&theme=radical&cache_seconds=1800)
 
