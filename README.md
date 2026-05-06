@@ -5,7 +5,7 @@
 
 ---
 
-## 👋 About Me  
+<h1> 👋 About Me </h1>  
 
 🚀 **Data Scientist | Aspiring AI/ML Engineer**
 
