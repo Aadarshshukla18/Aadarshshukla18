@@ -10,8 +10,8 @@
 🚀 **Data Scientist | Aspiring AI/ML Engineer**
 
 I build AI systems that solve real-world problems using Machine Learning, NLP, and Computer Vision. I have developed 15+ production-style projects including resume screening automation and real-time face recognition systems.
-
-🎓 Preparing for **MCA (AI/ML)**
+## 🎓Pursuing:-
+**Manipal University Jaipur - MCA (AI/ML)**
 
 ---
 
