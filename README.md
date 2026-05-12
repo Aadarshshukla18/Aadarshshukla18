@@ -11,7 +11,7 @@
 
 I build AI systems that solve real-world problems using Machine Learning, NLP, and Computer Vision. I have developed 15+ production-style projects including resume screening automation and real-time face recognition systems.
 ## 🎓Pursuing:-
-**Manipal University Jaipur - MCA (AI/ML)**
+## Manipal University Jaipur - MCA (AI/ML)
 
 ---
 
